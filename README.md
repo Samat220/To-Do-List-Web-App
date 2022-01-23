@@ -2,4 +2,7 @@
 
 To Do List Web app | App Brewery Full Stack Bootcamp Section 28 project
 
-This project is a To Do List web application where user can create to do lists and add/delete items in the list. It utilises Node.js, Express.js, EJS, MongoDB and Mongoose to govern the CRUD of the application's backend
+This project is a To Do List web application where user can create to do lists and add/delete items in the list. It utilises Node.js, Express.js, EJS, MongoDB and Mongoose to govern the CRUD of the application's backend.
+
+Application is fully functional and hosted on Heroku webiste: https://immense-sea-64902.herokuapp.com/
+Through MongoDB Atlas
